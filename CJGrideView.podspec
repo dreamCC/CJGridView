@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/dreamCC/CJGridView.git", :tag => s.version }
 
-  s.source_files  = "CJGrideView", "CJGrideView/*.{h,m}"
+  s.source_files  = "CJGrideView"
 
   s.requires_arc = true
 
